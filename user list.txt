@@ -1,10 +1,7 @@
-﻿AT List (add your first and last names)
+﻿AT List
 ----------------------------------------
-1.Jose Paolo Sandoval Noel
-2.Ana Maria Polo
-3.Pepe lucho
-4.Sebastián Ontiveros (good job)
-5.Matias Montana
-6.Gonzalo Iván Alarcón Roldán (good job)
-7.Miguel Álvaro Cruz Escobar (good job)
-8.Andres Cox Chuquimia (good job)
+1.Sebastián Ontiveros (good job)
+2.Gonzalo Iván Alarcón Roldán (good job)
+3.Miguel Álvaro Cruz Escobar (good job)
+4.Andres Cox Chuquimia (good job)
+-----------------------------------------
