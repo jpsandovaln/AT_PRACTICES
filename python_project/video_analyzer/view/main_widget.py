@@ -27,6 +27,7 @@ class MainWidget(QWidget):
         # self.algorithm = QLineEdit()
         self.algorithm = QComboBox()
         self.algorithm.addItem("LeeNet")
+        self.algorithm.addItem("ProxyLeeNet")
         self.algorithm.addItem("Custom")
 
         # self.percentage = QLineEdit()
